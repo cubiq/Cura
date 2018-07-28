@@ -238,7 +238,7 @@
             "value": 6
         },
         "skin_preshrink": {
-            "value": "130 if infill_sparse_density > 65 else 0.5"
+            "value": "5"
         },
         "expand_skins_expand_distance": {
             "value": 0
