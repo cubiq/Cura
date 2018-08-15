@@ -222,10 +222,10 @@
             "value": "False"
         },
         "z_seam_corner": {
-            "value": "'z_seam_corner_any'"
+            "value": "'z_seam_corner_none'"
         },
         "z_seam_type": {
-            "value": "'sharpest_corner'"
+            "value": "'shortest'"
         },
         "skin_no_small_gaps_heuristic": {
             "value": "False"
@@ -236,9 +236,6 @@
         },
         "skin_overlap": {
             "value": 6
-        },
-        "skin_preshrink": {
-            "value": "5"
         },
         "expand_skins_expand_distance": {
             "value": 0
