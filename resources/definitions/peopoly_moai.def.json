@@ -237,9 +237,6 @@
         "skin_overlap": {
             "value": 6
         },
-        "expand_skins_expand_distance": {
-            "value": 0
-        },
         "infill_wipe_dist": {
             "value": 0
         },
